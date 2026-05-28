@@ -1,5 +1,5 @@
 # aabhipsa-aabhipsa
-## Hi, I'm Aabhipsa 👋
+## Hi, I'm Aabhipsa !
 
 🎓 CSE Student at VIT-AP  
 💻 Learning Full Stack Web Development  
